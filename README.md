@@ -1,5 +1,5 @@
 # Penning Trap
-Wave function plots associated with geonium theory physics [Brown, Lowell S., and Gerald Gabrielse.](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233). 
+Wave function plots associated with geonium theory physics [[1]](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233). 
 
 ## Included Files
 * penningTrap.wl -- a mathematica package containing functions related to penning trap. Package can be [installed](https://support.wolfram.com/5648?src=mathematica) and used within mathematica notebooks by including the syntax ``<<"penningTrap`"`` at the beginning of the notebook.
