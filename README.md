@@ -2,11 +2,11 @@
 Wave function plots associated with geonium theory physics [[1]](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233). 
 
 ## Included Files
-* penningTrap.wl -- a mathematica package containing functions related to penning trap. Package can be [installed](https://support.wolfram.com/5648?src=mathematica) and used within mathematica notebooks by including the syntax ``<<"penningTrap`"`` at the beginning of the notebook.
-* penningTrapPlots.wl -- mathematica functions which use [cmTix](https://github.com/cphys/cmPackages) to create and export 3d and 2d probability density plots specific to the penning trap.
-* wfScript-noLegend.wls -- a wolfram language script used to create multiple plots for use in table
-* Bscript_wf.sh -- an example bash script which can be used with wfScript-noLegend.wls
-* imageTable.nb -- creates and exports [table of wave functions](/data/WFTable.png)
+* [penningTrap.wl](https://github.com/cphys/penningTrap/blob/main/penningTrap.wl) -- a mathematica package containing functions related to penning trap. Package can be [installed](https://support.wolfram.com/5648?src=mathematica) and used within mathematica notebooks by including the syntax ``<<"penningTrap`"`` at the beginning of the notebook.
+* [penningTrapPlots.wl](https://github.com/cphys/penningTrap/blob/main/penningTrapPlots.wl) -- mathematica functions which use [cmTix](https://github.com/cphys/cmPackages) to create and export 3d and 2d probability density plots specific to the penning trap.
+* [wfScript-noLegend.wls](https://github.com/cphys/penningTrap/blob/main/wfScript-noLegend.wls) -- a wolfram language script used to create multiple plots for use in table
+* [Bscript_wf.sh](https://github.com/cphys/penningTrap/blob/main/Bscript_wf.sh) -- an example bash script which can be used with wfScript-noLegend.wls
+* [imageTable.nb](https://github.com/cphys/penningTrap/blob/main/imageTable.nb) -- creates and exports [table of wave functions](/data/WFTable.png)
 
 ## penningTrap Package Examples
 The following calculations can be carried out by simply importing the penningTrap package at the beginning of the Mathematica notebook.
