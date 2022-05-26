@@ -97,9 +97,16 @@ plot2d[1,2,2]
 #### Output
 ![n=1, l=2, k=2](/data/figs2d/vc164.4GHz_vz64.42MHz/n1_l2_k2.png)
 
-## Wave Function Table
+### Wave Function Table
+A table of wave functions can be created using [imageTable.nb](https://github.com/cphys/penningTrap/blob/main/imageTable.nb).
 
-#### Input
+We pre calculate probability plots by calling [wfScript-noLegend.wls](https://github.com/cphys/penningTrap/blob/main/wfScript-noLegend.wls) from the command line using the following notation
+```
+./wfScript-noLegend.wls n l k
+```
+* `n` is the cyclotron quantum number, `l` is the magnetron quantum number, and `k` is the axial quantum number.
+* plots are stored in [data](https://github.com/cphys/penningTrap/tree/main/data) folder.
+Plots are automatically imported and formatted into table using using [imageTable.nb](https://github.com/cphys/penningTrap/blob/main/imageTable.nb).
 
 ![Penning Trap Wave Functions](/data/WFTable.png)
 
