@@ -1,4 +1,6 @@
 # Penning Trap
+Wave function plots associated with geonium theory physics [Brown, Lowell S., and Gerald Gabrielse.](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233). 
+
 ## Included files
 * penningTrap.wl -- a mathematica package containing functions related to penning trap.
 * penningTrapPlots.wl -- mathematica functions which use [cmTix](https://github.com/cphys/cmPackages) to create and export 3d and 2d probability density plots specific to the penning trap.
@@ -86,4 +88,7 @@ plot2d[1,2,2]
 
 ![Penning Trap Wave Functions](/data/WFTable.png)
 
-
+## External References
+[Brown, Lowell S., and Gerald Gabrielse.](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233)
+"Geonium theory: Physics of a single electron or ion in a Penning trap."
+Reviews of Modern Physics 58, no. 1 (1986): 233.
