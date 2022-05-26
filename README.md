@@ -114,3 +114,9 @@ Plots are automatically imported and formatted into table using using [imageTabl
 [Brown, Lowell S., and Gerald Gabrielse.](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233)
 "Geonium theory: Physics of a single electron or ion in a Penning trap."
 Reviews of Modern Physics 58, no. 1 (1986): 233.
+
+## Potential Improvements
+* Expand package for use with various spin values
+* Unite with [atomic orbitals](https://github.com/cphys/atomicOrbitals) project to create a package for visualizing general wave functions. This is nearly done already, but maybe should be organized into it's own repository/module.
+* It may be better to use DensityPlot3D rather than ListDensityPlot3D within cmTix plotting functions.
+* parallelization was removed, maybe experiment with putting it back into cmTix function.
