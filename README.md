@@ -1,4 +1,4 @@
-# Penning Trap
+# Penning Trap [![DOI](https://zenodo.org/badge/495287931.svg)](https://zenodo.org/badge/latestdoi/495287931)
 Wave function plots associated with geonium theory physics [[1]](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.58.233). 
 
 ## Included Files
