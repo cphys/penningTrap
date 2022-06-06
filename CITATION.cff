@@ -4,6 +4,8 @@ authors:
 - family-names: "Moore"
   given-names: "Christopher"
   orcid: "https://orcid.org/0000-0001-8563-5045"
-title: "penningTrap"
+title: "penningTrap:"
 version: 1.0
+doi: "10.5281/zenodo.6617787"
+date-released: 2022-06-06
 url: "https://github.com/cphys/penningTrap"
