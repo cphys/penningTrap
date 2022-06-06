@@ -46,6 +46,7 @@ The following plots can be used by calling `plot3d[n,l,k]` within penningTrapPlo
 
 #### Input
 ```Mathematica
+<< "penningTrap`"
 plot3d[0,2,2]
 ```
 
@@ -54,6 +55,7 @@ plot3d[0,2,2]
 
 #### Input
 ```Mathematica
+<< "penningTrap`"
 plot3d[1,2,2]
 ```
 
@@ -62,6 +64,7 @@ plot3d[1,2,2]
 
 #### Input
 ```Mathematica
+<< "penningTrap`"
 plot3d[0,2,5]
 ```
 
@@ -70,6 +73,7 @@ plot3d[0,2,5]
 
 #### Input
 ```Mathematica
+<< "penningTrap`"
 plot3d[1,2,5]
 ```
 ![n=1, l=2, k=5](/data/figs3d/vc164.4GHz_vz64.42MHz/n1_l2_k5.png)
@@ -83,6 +87,7 @@ The following plots can be used by calling `plot2d[n,l,k]` within penningTrapPlo
 * Currently the package is written only for spin 1/2 particles (s=1), but this may be expanded in the future.
 #### Input
 ```Mathematica
+<< "penningTrap`"
 plot2d[0,2,2]
 ```
 
